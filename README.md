@@ -2,13 +2,14 @@
 
 <h1 align="center">Simply Launcher</h1>
 
+<h3 align="center"><a href="https://github.com/peunsu/MRSLauncher">Forked from MRS Launcher</a></h3>
 <h3 align="center"><a href="https://github.com/dscalzi/HeliosLauncher">Forked from Helios Launcher</a></h3>
 
 <p align="center"><a href="https://github.com/peunsu/MRSLauncher/actions"><img src="https://img.shields.io/github/actions/workflow/status/peunsu/MRSLauncher/build.yml?branch=master&style=for-the-badge" alt="gh actions"></a> <a href="https://github.com/peunsu/MRSLauncher/releases"><img src="https://img.shields.io/github/downloads/peunsu/MRSLauncher/total.svg?style=for-the-badge" alt="downloads"></a>
 
 [<p align="center"><img src="https://img.shields.io/endpoint?url=https://minecraft-server-status-badge.vercel.app/api/server/mysticred.space?port=25565&logo=curseforge&logoColor=ffffff&label=MRS Server&labelColor=F16436&color=28231d&style=for-the-badge" alt="homepage">](https://mysticred.space) [<img src="https://img.shields.io/discord/330997213255827457?style=for-the-badge&logo=discord&logoColor=ffffff&label=Discord&labelColor=6173f4&color=28231d" alt="discord">](https://discord.gg/Z8j6ahF4MJ)
 
-<p align="center">Java, Forge, 모드 설치 걱정 없이 서버에 접속하세요. MRS 런처 하나로 준비 끝!</p>
+<p align="center">Java, Forge, 모드 설치 걱정 없이 서버에 접속하세요. Simply 런처 하나로 준비 끝!</p>
 
 ![Screenshot 1](https://i.imgur.com/44esaa9.png)
 ![Screenshot 2](https://i.imgur.com/NxUAzlL.png)
