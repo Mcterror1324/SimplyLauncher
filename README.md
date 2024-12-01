@@ -96,8 +96,8 @@ ctrl + shift + i
 **레포지토리 클론 및 의존 패키지 설치**
 
 ```console
-> git clone https://github.com/peunsu/MRSLauncher.git
-> cd MRSLauncher
+> git clone https://github.com/Mcterror1324/SimplyLauncher.git
+> cd SimplyLauncher
 > npm install
 ```
 
